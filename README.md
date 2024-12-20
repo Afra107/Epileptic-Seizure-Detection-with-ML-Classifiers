@@ -1,1 +1,1 @@
-# Epileptic-Seizure-Detection-with-ML-Classifiers
+# Epileptic Seizure Detection with ML Classifiers
